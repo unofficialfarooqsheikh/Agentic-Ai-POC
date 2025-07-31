@@ -1,0 +1,4 @@
+openai
+openai-agents
+nest_asyncio
+asyncio
